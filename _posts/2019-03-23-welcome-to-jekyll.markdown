@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Teknoloji Ve Yazılım"
-date:   2025-07-10 21:03:36 +0530
+date:   2025-07-10 21:03:36
 categories: Yazılım-Dilleri Framework Veritabanı İşletim_Sistemleri Cloud Search-Engine Yapay-Zeka Makine-Öğrenimi
 ---
 Merhaba, ben Furkan. Bilgisayar mühendisiyim ve yazılım geliştirme serüvenime web teknolojileriyle başladım.

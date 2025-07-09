@@ -2,8 +2,9 @@
 layout: post
 title:  "Software And Technology"
 date:   2025-07-10 21:03:36 +0530
-categories: Software Framework AI&ML Frontend Backend
+categories: Software AI&ML Frontend Backend
 ---
+
 
 ```javascript
 const Razorpay = require('razorpay');

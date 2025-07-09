@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Integrating razorpay into your webapp"
-date:   2019-03-23 21:03:36 +0530
-categories: Javascript NodeJS ASP.NET C# ANGULAR  MongoDB CSS  Linux CI/CD Nginx XML MYSQL SQL Python Pandas SEO SEARCHENGINE ARTIFICIALINTELLIGENCE DATASCIENCE
+title:  "Teknoloji ve yazılım ile ilgili yazılar"
+date:   2025-07-10  
+categories: Yazılım_Dilleri Framework  Veritabanı İşletim_Sistemleri Cloud Server SEO Search_Engine Yapay_Zeka Makine_Öğrenimi
 ---
 
 Merhaba, ben Furkan. Bilgisayar mühendisiyim ve yazılım geliştirme serüvenime web teknolojileriyle başladım.

@@ -56,8 +56,8 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: plainwhite
-url: "https://furkan9534.github.io"
+ url: "https://furkan9534.github.io"
+
 
 plugins:
   - jekyll-seo-tag

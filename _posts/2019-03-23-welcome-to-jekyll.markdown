@@ -8,15 +8,19 @@ Merhaba, ben Furkan. Bilgisayar mühendisiyim ve yazılım geliştirme serüveni
 ASP.NET Core ve Angular kullanarak full-stack projeler geliştiriyorum. Aynı zamanda Peter the Great St.Petersburg Polytechnic Universitesinde Yapay Zeka-Akıllı Sistemler alanında yüksek lisans yapıyorum.
 Web teknolojileri ve yapay zekayı bir araya getirerek, iş süreçlerini kolaylaştıran ve kullanıcı dostu sistemler tasarlıyorum.
 Hem frontend hem backend alanlarında farklı projelerde görev aldım. Ayrıca Python ile veri analizi ve yapay zeka destekli çözümler üzerinde çalışıyorum.
+
 🎯 İlgi Alanlarım:
 ASP.NET Core & Angular tabanlı web uygulamaları
 Yapay Zeka (AI) ve Veri Bilimi
 Makine Öğrenmesi
 AI destekli yazılım ürünleri geliştirme
+
 🛠️ Kullandığım Teknolojiler:
 C#, ASP.NET, Angular, Python, SQL, MongoDB, JavaScript, CSS, Linux, GitHub, CI/CD, Nginx,XML ,MYSQL 
+
 📊 Veri Analizi Araçları:
 Pandas, Jamovi, JSAP,PANDAS
+
 🚀 Hedefim:
 Teknolojiyi pratik ve akıllı çözümler üretmek için kullanmak. AI ve web teknolojilerini birleştirerek etkili, sürdürülebilir ve gerçek dünya problemlerine çözüm getiren yazılımlar geliştirmek.
 

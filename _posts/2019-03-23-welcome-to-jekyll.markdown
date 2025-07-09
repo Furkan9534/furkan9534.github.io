@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Teknoloji ve yazılım ile ilgili yazılar"
-date:   2025-07-10  
 categories: Yazılım_Dilleri Framework  Veritabanı İşletim_Sistemleri Cloud Server SEO Search_Engine Yapay_Zeka Makine_Öğrenimi
 ---
 

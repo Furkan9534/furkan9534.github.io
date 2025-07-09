@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Teknoloji Ve Yazılım"
-date:   2025-07-10 21:03:36
-categories: Yazılım-Dilleri Framework Veritabanı İşletim_Sistemleri Cloud Search-Engine Yapay-Zeka Makine-Öğrenimi
+title:  "Integrating razorpay into your webapp"
+date:   2019-03-23 21:03:36 +0530
+categories: Javascript NodeJS
 ---
 
 ```javascript

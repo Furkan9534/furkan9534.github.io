@@ -4,7 +4,7 @@ title:  "Software And Technology"
 date:   2025-07-10 21:03:36 +0530
 categories: Software AI&ML Frontend Backend
 ---
-
+Software And Technology
 
 ```javascript
 const Razorpay = require('razorpay');

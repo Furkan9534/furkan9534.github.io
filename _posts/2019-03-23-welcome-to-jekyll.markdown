@@ -3,7 +3,6 @@ layout: post
 title:  "Teknoloji ve yazılım ile ilgili yazılar"
 categories: Yazılım_Dilleri Framework  Veritabanı İşletim_Sistemleri Cloud Server SEO Search_Engine Yapay_Zeka Makine_Öğrenimi
 ---
-
 Merhaba, ben Furkan. Bilgisayar mühendisiyim ve yazılım geliştirme serüvenime web teknolojileriyle başladım.
 ASP.NET Core ve Angular kullanarak full-stack projeler geliştiriyorum. Aynı zamanda Peter the Great St.Petersburg Polytechnic Universitesinde Yapay Zeka-Akıllı Sistemler alanında yüksek lisans yapıyorum.
 
@@ -28,7 +27,6 @@ Pandas, Jamovi, JSAP,PANDAS
 
 🚀 Hedefim:
 Teknolojiyi pratik ve akıllı çözümler üretmek için kullanmak. AI ve web teknolojilerini birleştirerek etkili, sürdürülebilir ve gerçek dünya problemlerine çözüm getiren yazılımlar geliştirmek.
-
 ```javascript
 const Razorpay = require('razorpay');
 

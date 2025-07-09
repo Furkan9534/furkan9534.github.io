@@ -4,7 +4,6 @@ title:  "Software And Technology"
 date:   2019-03-23 21:03:36
 categories: Software Framework AI ML Frontend Backend
 ---
-
 ```javascript
 const Razorpay = require('razorpay');
 

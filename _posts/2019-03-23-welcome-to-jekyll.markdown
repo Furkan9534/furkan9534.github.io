@@ -2,9 +2,8 @@
 layout: post
 title:  "Integrating razorpay into your webapp"
 date:   2019-03-23 21:03:36 +0530
-categories: Javascript NodeJS ASP.NET C# ANGULAR  MongoDB CSS  Linux CI/CD Nginx XML MYSQL SQL Python Pandas SEO SEARCH ENGINE ARTIFICIAL INTELLIGENCE DATA SCIENCE
+categories: Javascript NodeJS ASP.NET C# ANGULAR  MongoDB CSS  Linux CI/CD Nginx XML MYSQL SQL Python Pandas SEO SEARCHENGINE ARTIFICIALINTELLIGENCE DATASCIENCE
 ---
-Software Engineer || Software Developer || AI & Data Science Enthusiast || ASP.NET Core | Angular || Python
 
 Merhaba, ben Furkan. Bilgisayar mühendisiyim ve yazılım geliştirme serüvenime web teknolojileriyle başladım.
 ASP.NET Core ve Angular kullanarak full-stack projeler geliştiriyorum. Aynı zamanda Peter the Great St.Petersburg Polytechnic Universitesinde Yapay Zeka-Akıllı Sistemler alanında yüksek lisans yapıyorum.

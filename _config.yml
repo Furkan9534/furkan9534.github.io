@@ -26,9 +26,9 @@ plainwhite:
     - page
     - post
   social_links:
-    twitter: samarsault
-    github: samarsault
-    linkedIn: in/samarsault
+    #twitter: samarsault
+    github: Furkan9534
+    linkedIn: in/furkan-kalkan
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up

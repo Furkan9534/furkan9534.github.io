@@ -3,7 +3,7 @@ layout: post
 date:   2025-07-10 21:03:36 +0530
 title:  "Teknoloji Ve Yazılım"
 categories: Yazılım-Dilleri Framework Veritabanı İşletim_Sistemleri Cloud Search-Engine Yapay-Zeka Makine-Öğrenimi
----
+
 Merhaba, ben Furkan. Bilgisayar mühendisiyim ve yazılım geliştirme serüvenime web teknolojileriyle başladım.
 ASP.NET Core ve Angular kullanarak full-stack projeler geliştiriyorum. Aynı zamanda Peter the Great St.Petersburg Polytechnic Universitesinde Yapay Zeka-Akıllı Sistemler alanında yüksek lisans yapıyorum.
 Web teknolojileri ve yapay zekayı bir araya getirerek, iş süreçlerini kolaylaştıran ve kullanıcı dostu sistemler tasarlıyorum.

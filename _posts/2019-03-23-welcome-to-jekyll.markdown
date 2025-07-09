@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Integrating razorpay into your webapp"
-date:   2019-03-23 21:03:36 +0530
-categories: Javascript NodeJS
+title:  "Software And Technology"
+date:   2019-03-23 21:03:36
+categories: Software Framework AI ML Frontend Backend
 ---
 
 ```javascript

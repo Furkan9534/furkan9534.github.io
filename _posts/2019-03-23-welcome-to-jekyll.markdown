@@ -2,7 +2,7 @@
 layout: post
 title:  "Software And Technology"
 date:   2019-03-23 21:03:36 +0530
-categories: Software AI&ML Frontend Backend
+categories: Software Artificial_Intelligence  Machine_Learning Data_Science Data_Scientist Frontend Backend
 ---
 Merhaba, ben Furkan. Bilgisayar mühendisiyim ve yazılım geliştirme serüvenime web teknolojileriyle başladım. ASP.NET Core ve Angular kullanarak full-stack projeler geliştiriyorum. Aynı zamanda Peter the Great St.Petersburg Polytechnic Universitesinde Yapay Zeka-Akıllı Sistemler alanında yüksek lisans yapıyorum. Web teknolojileri ve yapay zekayı bir araya getirerek, iş süreçlerini kolaylaştıran ve kullanıcı dostu sistemler tasarlıyorum.Hem frontend hem backend alanlarında farklı projelerde görev aldım. Ayrıca Python ile veri analizi ve yapay zeka destekli çözümler üzerinde çalışıyorum.
 
